@@ -57,6 +57,24 @@
   },
   "timestamp": "2021-03-03T19:57:21+0000",
   "tokens": [
+{
+  "chainId": 101,
+  "address": "GjwMNK7fBfsD783yXMnPJsuZgp8jQmzYNA9XsYScku9d",
+  "symbol": "QUEEF",
+  "name": "QUEEFCOIN",
+  "decimals": 6,
+  "logoURI": "https://i.imgur.com/W8lA9Si.png",
+  "tags": ["meme", "community", "solana"],
+  "extensions": {
+    "website": 
+"https://solscan.io/token/GjwMNK7fBfsD783yXMnPJsuZgp8jQmzYNA9XsYScku9d",
+    "teamWallet": "9DFFCKjjUV1fADkFApYTpnsyUunUWFgMTTrYBNEshfhr",
+    "description": "The most gas-powered token in Web3. 2B total supply. 
+750M transparently held in a locked team wallet. Minting permanently 
+revoked. Let's blow up 🚀💨"
+  }
+},
+
     {
       "chainId": 101,
       "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",
